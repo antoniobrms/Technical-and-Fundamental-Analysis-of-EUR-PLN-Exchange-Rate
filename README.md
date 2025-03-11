@@ -44,5 +44,4 @@ Also, by seeing the accumulation that the price do for 4 weeks we can see a brea
 in the trend that confirm our hypothesis, we can wait until we see an increase in the
 volatility using the ATR index to see how the market behaves and confirm if the change
 in the trend that we try to predict is well founded.
-In the same folder I adjunct the python script that we use to do this analysis.
 
