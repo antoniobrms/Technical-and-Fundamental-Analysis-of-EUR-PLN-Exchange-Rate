@@ -3,7 +3,7 @@
 To solve this task we use a script that we made in python in which we read the data of the euro against
 the zloty between the first of September of 2023 and the thirtieth of November and then we plot
 information about the moving averages, the relative strength index (RSI), the moving average
-convergence divergence(MACD) and the Average True Range(ATR), there we can see the result:
+convergence divergence(MACD) and the Average True Range(ATR).
 
 - Moving averages
 
